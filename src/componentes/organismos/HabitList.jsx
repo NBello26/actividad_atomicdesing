@@ -1,3 +1,4 @@
+import React from "react";
 import HabitCard from "../moleculas/HabitCard";
 
 export default function HabitList({ habits, onToggle, onToggleActive, onDelete }) {

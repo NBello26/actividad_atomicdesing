@@ -1,3 +1,4 @@
+import React from "react";
 export default function Header({ completedCount }) {
   return (
     <header className="header">

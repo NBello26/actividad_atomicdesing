@@ -1,3 +1,4 @@
+import React from "react";
 export default function PanelResumen({ habits }) {
   const totalHabits = habits.length;
   const completedToday = habits.filter(h => h.completedToday).length;

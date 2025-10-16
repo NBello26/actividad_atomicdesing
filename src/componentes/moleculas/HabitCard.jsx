@@ -1,3 +1,4 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import Icon from "../atomos/Icon";
 import Checkbox from "../atomos/Checkbox";

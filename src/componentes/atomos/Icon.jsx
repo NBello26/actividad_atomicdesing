@@ -1,3 +1,4 @@
+import React from "react";
 export default function Icon({ name, size = 24 }) {
   const icons = {
     water: "💧",

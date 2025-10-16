@@ -1,5 +1,5 @@
 // Importa el hook useState para manejar el estado local del componente
-import { useState } from "react";
+import React, { useState } from "react";
 
 // Importa componentes para la interfaz: Header (plantilla), HabitList (organismo), PanelResumen (página)
 import Header from "../plantillas/Header";
